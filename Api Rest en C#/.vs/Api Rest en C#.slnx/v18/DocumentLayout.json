@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|c:\\users\\kenet\\onedrive\\documentos\\engineer system\\ing 4\\programacion ii\\tareas\\api rest en c#\\api rest en c#\\api rest en c#\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|solutionrelative:api rest en c#\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|c:\\users\\kenet\\onedrive\\documentos\\engineer system\\ing 4\\programacion ii\\tareas\\api rest en c#\\api rest en c#\\api rest en c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|solutionrelative:api rest en c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|c:\\users\\kenet\\onedrive\\documentos\\engineer system\\ing 4\\programacion ii\\tareas\\api rest en c#\\api rest en c#\\api rest en c#\\models\\bdbusinesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|solutionrelative:api rest en c#\\models\\bdbusinesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|c:\\users\\kenet\\onedrive\\documentos\\engineer system\\ing 4\\programacion ii\\tareas\\api rest en c#\\api rest en c#\\api rest en c#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7981FF7-09A3-9D3C-E9ED-8A304F3502FF}|Api Rest en C#\\Api Rest en C#.csproj|solutionrelative:api rest en c#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\Program.cs",
+              "RelativeDocumentMoniker": "Api Rest en C#\\Program.cs",
+              "ToolTip": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\Program.cs",
+              "RelativeToolTip": "Api Rest en C#\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:55:14.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\appsettings.json",
+              "RelativeDocumentMoniker": "Api Rest en C#\\appsettings.json",
+              "ToolTip": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\appsettings.json",
+              "RelativeToolTip": "Api Rest en C#\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T05:08:34.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Api Rest en C#\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Api Rest en C#\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwCkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T05:27:46.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BdBusinessContext.cs",
+              "DocumentMoniker": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\Models\\BdBusinessContext.cs",
+              "RelativeDocumentMoniker": "Api Rest en C#\\Models\\BdBusinessContext.cs",
+              "ToolTip": "C:\\Users\\kenet\\OneDrive\\Documentos\\ENGINEER SYSTEM\\ING 4\\PROGRAMACION II\\TAREAS\\Api Rest en C#\\Api Rest en C#\\Api Rest en C#\\Models\\BdBusinessContext.cs",
+              "RelativeToolTip": "Api Rest en C#\\Models\\BdBusinessContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:52:51.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
